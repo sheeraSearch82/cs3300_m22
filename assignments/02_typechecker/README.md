@@ -28,6 +28,7 @@ should print either "Program type checked successfully" or "Type error". Note,
 your program must take input from standard input and write to standard output
 (so that we can use redirection).
 
+Note: Please do not alter the directory structure of `RollN0_P1`. Only edit `GJDepthFirst.java` and `P1.java`
 ## Resources
 
 The source files are on
